@@ -21,7 +21,7 @@ body:
     attributes:
       label: Alternatives Considered
       placeholder: Any other approaches?
-  - type: textarea
+  - type: textarea for new branch
     id: context
     attributes:
       label: Additional Context
